@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "generated": "2026-08-23",
+  "kdf": {
+    "algorithm": "pbkdf2_hmac_sha256",
+    "salt": "apollo-entitlements-v1",
+    "iterations": 200000
+  },
+  "entries": {
+    "b08814a44c934bdc33e353e7693606881370f3aa6cfb3ac698ad5c1652a9456d": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "eksamenslister",
+        "telling",
+        "email",
+        "morsmal",
+        "honorar",
+        "settings"
+      ]
+    },
+    "45ab6bbe42d6e551f5b5443a2272bd53bbbeee7319b90629e657259aeaccf036": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "morsmal",
+        "telling",
+        "settings"
+      ]
+    },
+    "54d921a22a98044086c4017e4667fb9742cb3446ed2cbe8df3bf0226f7c56a37": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "email",
+        "telling",
+        "settings"
+      ]
+    },
+    "7689737dcc093493086d10ab37594e5d0220af6644f5a54d2724db0bbc90c813": {
+      "modules": [
+        "welcome",
+        "eksamenslister",
+        "settings"
+      ]
+    },
+    "d64d49def72168fb99e5d8b16dfe0c8c2fefb5fb2ea5bcb9b2b1d4ad41f6d009": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "telling",
+        "settings"
+      ]
+    },
+    "f4475c1bf47841ae5d5275632c795ca0f3770798a0bbaa6fba7b34b84acf2c76": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "telling",
+        "settings"
+      ]
+    },
+    "2ec470d6636e4f5692c0135f261111f5882dc05cc14a49b4e6187724ccad55f2": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "telling",
+        "settings"
+      ]
+    },
+    "c2fa3b3c1848b9626ee506f725d8415ae363212bcea774ca764dc9d263ebeb20": {
+      "modules": [
+        "welcome",
+        "telling",
+        "settings"
+      ]
+    },
+    "06061080177833106ad9c781ca2b9dbad82dd1257bfdb8c71912bded0701404c": {
+      "modules": [
+        "welcome",
+        "telling",
+        "settings"
+      ]
+    },
+    "18eb7bcfe76ff5ac94c75a0a47514a023da848646a6ce0f3d2881a7389969f74": {
+      "modules": [
+        "welcome",
+        "telling",
+        "eksamenslister",
+        "email",
+        "settings"
+      ]
+    },
+    "91ac1635b12984a4c27a2e769298611859523d29117bc7034706aa67f418abb0": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "eksamenslister",
+        "telling",
+        "email",
+        "settings"
+      ]
+    },
+    "704d7a6af2358ca45ea1563f5804007e919006584b66daa167e734b7b9bbdf69": {
+      "modules": [
+        "welcome",
+        "kompetansebevis",
+        "eksamenslister",
+        "telling",
+        "email",
+        "morsmal",
+        "honorar",
+        "settings"
+      ]
+    }
+  }
+}
